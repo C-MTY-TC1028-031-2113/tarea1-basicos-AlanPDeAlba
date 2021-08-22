@@ -5,7 +5,7 @@ def main():
     materia3 = float(input("Escribe la calificación de la tecera materia: "))
     materia4 = float(input("Escribe la calificación de la cuarta materia: "))
     promedio = (materia1 + materia2 + materia3 + materia4)/4
-    print("El promedio es: " + str(promedio))
+    print("El promedio es: " + str(promedio))  
     pass
 
 
