@@ -3,7 +3,7 @@ def main():
     pesoinicial = float(input("Escribe el peso inicial: "))
     pesofinal = float(input("Escribe el peso final: "))
     meses = int(input("Escribe la cantidad de meses: "))
-    pesopormes = (pesoinicial - pesofinal)/ meses
+    pesopormes = (pesoinicial - pesofinal)/meses
     print("El peso que debes de bajar por mes es: " + str(pesopormes))
     pass
 
